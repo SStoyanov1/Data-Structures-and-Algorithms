@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\09. FindsFirst50MembersOfSequence\bin\Debug\_09.FindsFirst50MembersOfSequence.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\09. FindsFirst50MembersOfSequence\bin\Debug\_09.FindsFirst50MembersOfSequence.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\09. FindsFirst50MembersOfSequence\bin\Debug\_09.FindsFirst50MembersOfSequence.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\09. FindsFirst50MembersOfSequence\obj\Debug\_09.FindsFirst50MembersOfSequence.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\09. FindsFirst50MembersOfSequence\obj\Debug\_09.FindsFirst50MembersOfSequence.pdb

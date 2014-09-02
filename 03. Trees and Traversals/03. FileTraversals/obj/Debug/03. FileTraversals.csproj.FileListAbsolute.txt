@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\03. Trees and Traversals\03. FileTraversals\bin\Debug\_03.FileTraversals.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\03. Trees and Traversals\03. FileTraversals\obj\Debug\03. FileTraversals.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\03. Trees and Traversals\03. FileTraversals\bin\Debug\_03.FileTraversals.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\03. Trees and Traversals\03. FileTraversals\bin\Debug\_03.FileTraversals.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\03. Trees and Traversals\03. FileTraversals\obj\Debug\_03.FileTraversals.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\03. Trees and Traversals\03. FileTraversals\obj\Debug\_03.FileTraversals.pdb

@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\03. SortsInputIntegers\bin\Debug\_03.SortsInputIntegers.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\03. SortsInputIntegers\bin\Debug\_03.SortsInputIntegers.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\03. SortsInputIntegers\bin\Debug\_03.SortsInputIntegers.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\03. SortsInputIntegers\obj\Debug\_03.SortsInputIntegers.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\03. SortsInputIntegers\obj\Debug\_03.SortsInputIntegers.pdb

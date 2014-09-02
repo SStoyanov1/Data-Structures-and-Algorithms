@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\07. CountsOccurrences\bin\Debug\_07.CountsOccurrences.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\07. CountsOccurrences\bin\Debug\_07.CountsOccurrences.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\07. CountsOccurrences\bin\Debug\_07.CountsOccurrences.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\07. CountsOccurrences\obj\Debug\_07.CountsOccurrences.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\07. CountsOccurrences\obj\Debug\_07.CountsOccurrences.pdb

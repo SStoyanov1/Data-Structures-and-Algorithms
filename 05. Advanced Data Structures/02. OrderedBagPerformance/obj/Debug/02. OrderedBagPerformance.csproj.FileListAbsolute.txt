@@ -1,0 +1,8 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\bin\Debug\_02.OrderedBagPerformance.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\bin\Debug\_02.OrderedBagPerformance.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\bin\Debug\_02.OrderedBagPerformance.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\obj\Debug\_02.OrderedBagPerformance.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\obj\Debug\_02.OrderedBagPerformance.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\obj\Debug\02. OrderedBagPerformance.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\bin\Debug\PowerCollections.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\02. OrderedBagPerformance\bin\Debug\PowerCollections.xml

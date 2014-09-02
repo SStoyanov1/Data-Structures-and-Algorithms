@@ -1,0 +1,8 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\bin\Debug\_05.HashSet.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\obj\Debug\05. HashSet.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\bin\Debug\_05.HashSet.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\bin\Debug\_05.HashSet.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\bin\Debug\_04.HashTable.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\bin\Debug\_04.HashTable.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\obj\Debug\_05.HashSet.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\05. HashSet\obj\Debug\_05.HashSet.pdb

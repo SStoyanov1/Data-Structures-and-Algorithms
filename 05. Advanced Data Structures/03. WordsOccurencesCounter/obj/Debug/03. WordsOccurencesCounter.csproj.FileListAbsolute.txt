@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\03. WordsOccurencesCounter\bin\Debug\_03.WordsOccurencesCounter.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\03. WordsOccurencesCounter\bin\Debug\_03.WordsOccurencesCounter.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\03. WordsOccurencesCounter\bin\Debug\_03.WordsOccurencesCounter.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\03. WordsOccurencesCounter\obj\Debug\03. WordsOccurencesCounter.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\03. WordsOccurencesCounter\obj\Debug\_03.WordsOccurencesCounter.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Advanced Data Structures\03. WordsOccurencesCounter\obj\Debug\_03.WordsOccurencesCounter.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\03. CountsAndSortsByOccurencesFromTxtFile\bin\Debug\_03.CountsAndSortsByOccurencesFromTxtFile.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\03. CountsAndSortsByOccurencesFromTxtFile\bin\Debug\_03.CountsAndSortsByOccurencesFromTxtFile.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\03. CountsAndSortsByOccurencesFromTxtFile\bin\Debug\_03.CountsAndSortsByOccurencesFromTxtFile.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\03. CountsAndSortsByOccurencesFromTxtFile\obj\Debug\_03.CountsAndSortsByOccurencesFromTxtFile.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\03. CountsAndSortsByOccurencesFromTxtFile\obj\Debug\_03.CountsAndSortsByOccurencesFromTxtFile.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\04. Dictionaries Hash Tables and Sets\03. CountsAndSortsByOccurencesFromTxtFile\obj\Debug\03. CountsAndSortsByOccurencesFromTxtFile.csprojResolveAssemblyReference.cache

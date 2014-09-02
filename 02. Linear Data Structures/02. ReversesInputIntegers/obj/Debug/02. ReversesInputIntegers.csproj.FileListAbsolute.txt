@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\02. ReversesInputIntegers\bin\Debug\_02.ReversesInputIntegers.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\02. ReversesInputIntegers\bin\Debug\_02.ReversesInputIntegers.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\02. ReversesInputIntegers\bin\Debug\_02.ReversesInputIntegers.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\02. ReversesInputIntegers\obj\Debug\_02.ReversesInputIntegers.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\02. ReversesInputIntegers\obj\Debug\_02.ReversesInputIntegers.pdb

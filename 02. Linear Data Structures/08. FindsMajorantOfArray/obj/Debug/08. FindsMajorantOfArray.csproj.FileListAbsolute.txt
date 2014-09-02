@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\08. FindsMajorantOfArray\bin\Debug\_08.FindsMajorantOfArray.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\08. FindsMajorantOfArray\bin\Debug\_08.FindsMajorantOfArray.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\08. FindsMajorantOfArray\bin\Debug\_08.FindsMajorantOfArray.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\08. FindsMajorantOfArray\obj\Debug\_08.FindsMajorantOfArray.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\08. FindsMajorantOfArray\obj\Debug\_08.FindsMajorantOfArray.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\02. Linear Data Structures\08. FindsMajorantOfArray\obj\Debug\08. FindsMajorantOfArray.csprojResolveAssemblyReference.cache

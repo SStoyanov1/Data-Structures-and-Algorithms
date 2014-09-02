@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\02. ExtractsElementsWithOddOccurences\bin\Debug\_02.ExtractsElementsWithOddOccurences.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\02. ExtractsElementsWithOddOccurences\bin\Debug\_02.ExtractsElementsWithOddOccurences.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\02. ExtractsElementsWithOddOccurences\bin\Debug\_02.ExtractsElementsWithOddOccurences.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\02. ExtractsElementsWithOddOccurences\obj\Debug\_02.ExtractsElementsWithOddOccurences.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\04. Dictionaries Hash Tables and Sets\02. ExtractsElementsWithOddOccurences\obj\Debug\_02.ExtractsElementsWithOddOccurences.pdb

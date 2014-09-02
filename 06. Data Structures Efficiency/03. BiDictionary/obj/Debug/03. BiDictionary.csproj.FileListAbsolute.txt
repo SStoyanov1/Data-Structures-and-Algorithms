@@ -1,0 +1,8 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\bin\Debug\_03.BiDictionary.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\bin\Debug\_03.BiDictionary.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\bin\Debug\_03.BiDictionary.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\bin\Debug\PowerCollections.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\bin\Debug\PowerCollections.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\obj\Debug\03. BiDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\obj\Debug\_03.BiDictionary.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Data Structures Efficiency\03. BiDictionary\obj\Debug\_03.BiDictionary.pdb
