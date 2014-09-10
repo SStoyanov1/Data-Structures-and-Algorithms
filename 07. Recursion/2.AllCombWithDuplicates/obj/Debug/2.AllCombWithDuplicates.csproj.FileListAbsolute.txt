@@ -1,0 +1,9 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\2.AllCombWithDuplicates\bin\Debug\2.AllCombWithDuplicates.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\2.AllCombWithDuplicates\bin\Debug\2.AllCombWithDuplicates.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\2.AllCombWithDuplicates\obj\Debug\2.AllCombWithDuplicates.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\2.AllCombWithDuplicates\obj\Debug\2.AllCombWithDuplicates.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\2.AllCombWithDuplicates\obj\Debug\2.AllCombWithDuplicates.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\2.AllCombWithDuplicates\obj\Debug\2.AllCombWithDuplicates.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\2.AllCombWithDuplicates\bin\Debug\2.AllCombWithDuplicates.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\2.AllCombWithDuplicates\bin\Debug\2.AllCombWithDuplicates.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\2.AllCombWithDuplicates\obj\Debug\2.AllCombWithDuplicates.csprojResolveAssemblyReference.cache

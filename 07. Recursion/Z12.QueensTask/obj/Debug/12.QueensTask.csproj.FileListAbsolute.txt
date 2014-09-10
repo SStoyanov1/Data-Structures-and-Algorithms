@@ -1,0 +1,2 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\Z12.QueensTask\obj\Debug\Z12.QueensTask.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\Z12.QueensTask\obj\Debug\Z12.QueensTask.pdb

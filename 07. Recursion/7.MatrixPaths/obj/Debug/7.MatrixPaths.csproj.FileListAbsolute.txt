@@ -1,0 +1,10 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\7.MatrixPaths\bin\Debug\7.MatrixPaths.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\7.MatrixPaths\bin\Debug\7.MatrixPaths.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\7.MatrixPaths\obj\Debug\7.MatrixPaths.csprojResolveAssemblyReference.cache
+G:\C#\SDA\homeworks\8.RecursionHomework\7.MatrixPaths\obj\Debug\7.MatrixPaths.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\7.MatrixPaths\obj\Debug\7.MatrixPaths.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\7.MatrixPaths\obj\Debug\7.MatrixPaths.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\7.MatrixPaths\obj\Debug\7.MatrixPaths.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\7.MatrixPaths\bin\Debug\7.MatrixPaths.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\7.MatrixPaths\bin\Debug\7.MatrixPaths.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\7.MatrixPaths\obj\Debug\7.MatrixPaths.csprojResolveAssemblyReference.cache

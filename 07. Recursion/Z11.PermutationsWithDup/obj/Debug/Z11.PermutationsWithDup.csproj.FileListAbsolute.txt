@@ -1,0 +1,6 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\Z11.PermutationsWithDup\bin\Debug\Z11.PermutationsWithDup.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\Z11.PermutationsWithDup\bin\Debug\Z11.PermutationsWithDup.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\Z11.PermutationsWithDup\obj\Debug\Z11.PermutationsWithDup.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\Z11.PermutationsWithDup\obj\Debug\Z11.PermutationsWithDup.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\Z11.PermutationsWithDup\obj\Debug\Z11.PermutationsWithDup.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\Z11.PermutationsWithDup\obj\Debug\Z11.PermutationsWithDup.pdb

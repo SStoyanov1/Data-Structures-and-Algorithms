@@ -1,0 +1,10 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\6.VariationsNoDups\bin\Debug\6.VariationsNoDups.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\6.VariationsNoDups\bin\Debug\6.VariationsNoDups.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\6.VariationsNoDups\obj\Debug\6.VariationsNoDups.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\6.VariationsNoDups\obj\Debug\6.VariationsNoDups.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\6.VariationsNoDups\obj\Debug\6.VariationsNoDups.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\6.VariationsNoDups\obj\Debug\6.VariationsNoDups.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\6.VariationsNoDups\obj\Debug\6.VariationsNoDups.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\6.VariationsNoDups\bin\Debug\6.VariationsNoDups.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\6.VariationsNoDups\bin\Debug\6.VariationsNoDups.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\6.VariationsNoDups\obj\Debug\6.VariationsNoDups.csprojResolveAssemblyReference.cache

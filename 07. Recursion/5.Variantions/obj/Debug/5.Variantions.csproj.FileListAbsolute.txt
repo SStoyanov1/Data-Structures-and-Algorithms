@@ -1,0 +1,8 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\5.Variantions\bin\Debug\5.Variantions.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\5.Variantions\bin\Debug\5.Variantions.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\5.Variantions\obj\Debug\5.Variantions.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\5.Variantions\obj\Debug\5.Variantions.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\5.Variantions\obj\Debug\5.Variantions.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\5.Variantions\obj\Debug\5.Variantions.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\5.Variantions\bin\Debug\5.Variantions.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\5.Variantions\bin\Debug\5.Variantions.pdb

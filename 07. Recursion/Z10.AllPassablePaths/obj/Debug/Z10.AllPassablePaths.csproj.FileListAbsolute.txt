@@ -1,0 +1,7 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\Z10.AllPassablePaths\bin\Debug\Z10.AllPassablePaths.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\Z10.AllPassablePaths\bin\Debug\Z10.AllPassablePaths.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\Z10.AllPassablePaths\obj\Debug\Z10.AllPassablePaths.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\Z10.AllPassablePaths\obj\Debug\Z10.AllPassablePaths.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\Z10.AllPassablePaths\obj\Debug\Z10.AllPassablePaths.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\Z10.AllPassablePaths\obj\Debug\Z10.AllPassablePaths.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\Z10.AllPassablePaths\obj\Debug\Z10.AllPassablePaths.pdb

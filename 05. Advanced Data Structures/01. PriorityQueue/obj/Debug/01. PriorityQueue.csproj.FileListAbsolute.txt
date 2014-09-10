@@ -4,3 +4,6 @@ c:\users\stoyan\documents\visual studio 2013\Projects\Advanced Data Structures\0
 c:\users\stoyan\documents\visual studio 2013\Projects\Advanced Data Structures\01. PriorityQueue\bin\Debug\_01.PriorityQueue.pdb
 c:\users\stoyan\documents\visual studio 2013\Projects\Advanced Data Structures\01. PriorityQueue\obj\Debug\_01.PriorityQueue.exe
 c:\users\stoyan\documents\visual studio 2013\Projects\Advanced Data Structures\01. PriorityQueue\obj\Debug\_01.PriorityQueue.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Data Structures and Algorithms\05. Advanced Data Structures\01. PriorityQueue\bin\Debug\_01.PriorityQueue.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Data Structures and Algorithms\05. Advanced Data Structures\01. PriorityQueue\obj\Debug\_01.PriorityQueue.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Data Structures and Algorithms\05. Advanced Data Structures\01. PriorityQueue\obj\Debug\_01.PriorityQueue.pdb

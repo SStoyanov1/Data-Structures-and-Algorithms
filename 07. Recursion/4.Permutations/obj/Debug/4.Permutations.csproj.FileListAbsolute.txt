@@ -1,0 +1,10 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\4.Permutations\obj\Debug\4.Permutations.csprojResolveAssemblyReference.cache
+G:\C#\SDA\homeworks\8.RecursionHomework\4.Permutations\bin\Debug\4.Permutations.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\4.Permutations\bin\Debug\4.Permutations.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\4.Permutations\obj\Debug\4.Permutations.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\4.Permutations\obj\Debug\4.Permutations.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\4.Permutations\obj\Debug\4.Permutations.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\4.Permutations\obj\Debug\4.Permutations.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\4.Permutations\bin\Debug\4.Permutations.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\4.Permutations\bin\Debug\4.Permutations.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\4.Permutations\obj\Debug\4.Permutations.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\8.RecursionHomework\bin\Debug\8.RecursionHomework.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\8.RecursionHomework\bin\Debug\8.RecursionHomework.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\8.RecursionHomework\obj\Debug\1.NestedLoops.csprojResolveAssemblyReference.cache
+G:\C#\SDA\homeworks\8.RecursionHomework\8.RecursionHomework\obj\Debug\8.RecursionHomework.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\8.RecursionHomework\obj\Debug\8.RecursionHomework.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\8.RecursionHomework\obj\Debug\8.RecursionHomework.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\8.RecursionHomework\obj\Debug\8.RecursionHomework.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\8.RecursionHomework\bin\Debug\8.RecursionHomework.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\8.RecursionHomework\bin\Debug\8.RecursionHomework.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\8.RecursionHomework\8.RecursionHomework\obj\Debug\1.NestedLoops.csprojResolveAssemblyReference.cache

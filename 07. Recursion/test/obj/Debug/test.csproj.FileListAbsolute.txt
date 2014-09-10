@@ -1,0 +1,5 @@
+G:\C#\SDA\homeworks\8.RecursionHomework\test\bin\Debug\test.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\test\bin\Debug\test.pdb
+G:\C#\SDA\homeworks\8.RecursionHomework\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\C#\SDA\homeworks\8.RecursionHomework\test\obj\Debug\test.exe
+G:\C#\SDA\homeworks\8.RecursionHomework\test\obj\Debug\test.pdb
